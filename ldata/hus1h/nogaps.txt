@@ -1,0 +1,9 @@
+# This is a list of positions in the audio source files
+# At these positions, a gap was detected, but it is just a long
+# silence, which the reciter put inside one block
+
+# this is for  'hus1h'
+
+# the numbers are millisecond offsets from the bginning of the audio file
+# the positions should point to about the middle of the 'false' gap
+# chap    ms

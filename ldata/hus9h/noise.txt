@@ -1,0 +1,16 @@
+# This is a list of positions in the audio source files
+# At these positions, a block was detected, but it is just 
+# noise inside a gap
+
+# this is for  'hus9h'
+
+# the numbers are millisecond offsets from the bginning of the audio file
+# the positions should point to about the middle of the 'false' block
+# chap    ms
+	 2	11870805	
+	 2	17395975
+	 2  16324943
+	 2   8705076
+	 2	13104549
+	 2  12528190
+	 

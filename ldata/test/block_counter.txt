@@ -1,0 +1,5 @@
+# for test
+# block counters per chapter
+
+# chap blkcount
+   999     6

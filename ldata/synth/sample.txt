@@ -1,0 +1,10 @@
+# this file maps names to sample textx for sythesis
+
+# lamyakun   lamyakuwwaṣlukaʼillaaḥulumaafilkarAAʼawḫilsatalmuḫtalisii
+  lihaulati  liḫAwlatiʼaṭlaalimNbiburqAtiṯahmadiitaluuḥukabaaqilwašmifiiḍAAhirilyadii
+  laataati   laataʼtilʻabdaʼillaawalʻaṣAAmaʻahuuʼinNnalʻabiidaʼanǧaasumNmanaakiidiy
+  abaahin    ʼabaahinNdinNfalaataʻǧalʻalaynaawaʼamhilnaalinuḫbirkalyaqiinaa
+  jaadaka    ǧaadakalġAyṯuʼiḏalġAyṯuhamaayaazamaanalwaṣlifilʼandalusiy
+  alaaqadri  ʻalaaqAdriʼahlilʻazmitaʼtilʻazaaʼimuuwataʼtiiʻalaaqAdrilkirAAmilmakaarimuu
+  waqafa     waqAfalʼasiirumuqAyyadaabaynalʼasinNnatiwalʻidaa
+  tamuutu    tamuutulʼusdifilġAAbaatiǧuuʻawwalaḥmiḍḍAʼnitaʼkulhulkilaabuu
