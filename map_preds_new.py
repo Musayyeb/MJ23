@@ -117,7 +117,8 @@ def main():
             chart_name = f"next_{chapno:03d}_{blkno:03d}_{model_name}.png"
             plot(probtab, xdim, text, ltrmap, chart_name)
 
-
+        is_checked = check_letter(recd, chap, blk, xdim)
+        print("Result -", is_checked)
 
 def map_ltr(ltr, text, ltrmap, prob_avg, minprob):
     # find this one letter in the probabilities
@@ -488,6 +489,10 @@ def check_letter(recd, chapno, blkno, xdim):
     
     avg_len = (xdim - 800) // len(text)
     pred_len = (pr - pl) / avg_len 
+
+    print("Max len  -", max_len)
+    print("Max ltr  -", max_ltr)
+    print("Pred len -", pred_len)
 
     if max_len+ 1  > pred_len > (max_len - 1):
         return True
